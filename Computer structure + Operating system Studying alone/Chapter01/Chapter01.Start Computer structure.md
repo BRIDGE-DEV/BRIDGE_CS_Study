@@ -79,3 +79,44 @@
     >   > 저장할 주소를 주소 버스로 CPU에서 메모리로
     >   > 
     >   > 제어 신호(쓰기)를 제어 버스로 CPU에서 메모리로
+
+-------
+
+## RAM vs ROM
+<b>RAM</b>
+Random Access Memory
+Sequaltial Access가 아닌 Random Access
+순차적 접근보다 빠른 임의 접근 방식(순간이동)
+휘발성 메모리
+SRAM, DRAM
+
+<b>사용이유</b>
+CPU : 1sec
+RAM : 4min
+HDD : 1~9month
+
+메모리가 CPU와 하드디스크 사이에 위치해 중간에서 속도 개선
+
+<b>ROM</b>
+Read Only Memory
+생산될 때 납땜되어 출하
+비휘발성 메모리
+전기적 신호를 활용해 여러번 프로그래밍 가능
+BIOS 설치
+MASK ROM, PROM, EPROM, EEPROM
+
+## 32bit vs 64bit 운영체제
+> bit : 0, 1
+> 1byte : 8bit
+
+<b>CPU와 메모리가 데이터를 주고 받는 단위
+> ex) 320bit 데이터 이동
+> 32bit : 32씩 10번
+> 64bit : 64씩 5번
+
+<b>32bit는 4GB의 메모리가 한계, 64bit는 8GB 이상의 RAM 필요
+1bit가 늘어날수록 경우의 수는 2의 제곱으로 커짐
+32bit의 경우 2의 32제곱, 64bit의 경우 2의 64제곱
+2^32 = 4,294,967,296
+4.294GB ≒ 4GB
+32bit가 한번에 참고할 수 있는 주소가 4GB
