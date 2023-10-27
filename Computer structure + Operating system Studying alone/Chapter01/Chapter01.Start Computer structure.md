@@ -98,9 +98,9 @@ SRAM, DRAM
 <b>사용이유</b>
 
 > CPU : 1sec
-
+>
 > RAM : 4min
-
+>
 > HDD : 1~9month
 
 메모리가 CPU와 하드디스크 사이에 위치해 중간에서 속도 개선
