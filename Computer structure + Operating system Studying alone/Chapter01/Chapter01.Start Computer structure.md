@@ -120,14 +120,18 @@ MASK ROM, PROM, EPROM, EEPROM
 
 ## 32bit vs 64bit 운영체제
 
+
 > bit : 0, 1
+> 
 > 1byte : 8bit
 
 
 <b>CPU와 메모리가 데이터를 주고 받는 단위
 
 > ex) 320bit 데이터 이동
+> 
 > 32bit : 32씩 10번
+> 
 > 64bit : 64씩 5번
 
 <b>32bit는 4GB의 메모리가 한계, 64bit는 8GB 이상의 RAM 필요
