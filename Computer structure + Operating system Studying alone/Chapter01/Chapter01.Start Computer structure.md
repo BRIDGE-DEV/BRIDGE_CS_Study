@@ -126,7 +126,7 @@ MASK ROM, PROM, EPROM, EEPROM
 > 1byte : 8bit
 
 
-<b>CPU와 메모리가 데이터를 주고 받는 단위
+<b>CPU와 메모리가 데이터를 주고 받는 단위</b>
 
 > ex) 320bit 데이터 이동
 > 
