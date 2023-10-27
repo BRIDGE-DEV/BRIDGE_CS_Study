@@ -96,11 +96,12 @@ Sequaltial Access가 아닌 Random Access
 SRAM, DRAM
 
 <b>사용이유</b>
-CPU : 1sec
 
-RAM : 4min
+> CPU : 1sec
 
-HDD : 1~9month
+> RAM : 4min
+
+> HDD : 1~9month
 
 메모리가 CPU와 하드디스크 사이에 위치해 중간에서 속도 개선
 
@@ -120,7 +121,6 @@ MASK ROM, PROM, EPROM, EEPROM
 
 ## 32bit vs 64bit 운영체제
 
-
 > bit : 0, 1
 > 
 > 1byte : 8bit
@@ -134,7 +134,7 @@ MASK ROM, PROM, EPROM, EEPROM
 > 
 > 64bit : 64씩 5번
 
-<b>32bit는 4GB의 메모리가 한계, 64bit는 8GB 이상의 RAM 필요
+<b>32bit는 4GB의 메모리가 한계, 64bit는 8GB 이상의 RAM 필요</b>
 
 1bit가 늘어날수록 경우의 수는 2의 제곱으로 커짐
 
