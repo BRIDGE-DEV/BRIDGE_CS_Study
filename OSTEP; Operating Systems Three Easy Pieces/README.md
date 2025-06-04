@@ -1,3 +1,4 @@
 ## OSTEP (Operating Systems : Three Easy Pieces)
 ***
-![Alt text](image.png)
+<center>![Alt text](image.png)</center>
+Link : https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean
